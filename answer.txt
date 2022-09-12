@@ -11,7 +11,9 @@ Ans: The gitignore file contains the names of files not to be included. In the J
 Ans:Fast-forward merges literally move your main branch's tip forward to the end of your feature branch. This keeps all commits created in your feature branch sequential while integrating it neatly back into your main branch.
 
 3. Why should you have different branches? 
-Ans:For multiple people working in parallel, it is really necessary to track their work at different places and easier to merge them later to a single source. This helps a lot to working in parallel and it creates less conphusion.  
+Ans:For multiple people working in parallel, it is really necessary to track their work at different places and easier to merge them later to a single source. This helps a lot to working in parallel and it creates less confusion.  
 
 4. In a project how many remote Git repositories do you usually have?
-Ans: There is usually only one major repository for the project, but many a times for some secondary purpose, people create new subprojects to work on them with separate teams which serve different purposes. Usually projects have only one repository in early stages. But as the time goes, many repositories are added to project to serve other purposes.
+Ans: There is usually only one major repository for the project, 
+But many times for some secondary purpose, new repositories are created. These projects may be shared between separate teams. 
+Usually projects have only one repository in early stages. But as the time goes, many repositories are added to project to serve other purposes.
